@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.224.8.84:8081/repository/bmw-snapshots/</url>
+	      <url>http://18.224.8.84:8081/repository/PayPal-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
